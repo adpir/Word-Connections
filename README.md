@@ -2,7 +2,7 @@
 ### `a Positive Affirmations creation`
 
 ## *Objective* 
-# Our goal was to craete a websiite that meets the criteria of the following user story.
+# Our goal was to create a website that meets the criteria of the following user story.
 
 `AS A person who doesn’t know this word`
 *I WANT to be able to easily search in one spot and find tons of cool stuff about the word*
